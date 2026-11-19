@@ -1,0 +1,6 @@
+{
+  "name": "Pallets Pro Solutions",
+  "description": "Industrial B2B packaging website featuring interactive 3D wooden pallets, plastic pallets, and wooden packing boxes by Pallets Pro Solutions in Greater Noida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
